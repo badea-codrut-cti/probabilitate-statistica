@@ -1,3 +1,3 @@
-# Template materie facultate
+# Probabilitate si statistica
 
 ## Resurse
